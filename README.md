@@ -13,7 +13,3 @@ VisualAffirmation is a Python script that generates custom motivational wallpape
 
 - Python 3.6+
 - Pillow library
-
-## Installation
-
-1. Clone this repository:
